@@ -1,2 +1,2 @@
-# Machine-Learning
-Machine Learning Projects
+# A.I
+Machine Learning & Deep Learning Projects
